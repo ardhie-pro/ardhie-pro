@@ -12,7 +12,35 @@
 - ⚡ Fun fact: I love solving problems and creating clean UIs!
 
 ---
+## 🚀 Proyek Unggulan
 
+<p align="center">
+  <img src="https://img.icons8.com/emoji/48/rocket-emji.png" width="28"/> 
+</p>
+
+### 🧠 [PsikotesOnline.com](https://psikotesonline.com)
+> Platform psikotes online berbasis web dengan berbagai alat tes psikologi populer seperti IST, CFIT, MMPI, dan lainnya. Cocok untuk pelajar, mahasiswa, hingga perekrutan kerja.
+
+🛠️ Teknologi: `PHP` `MySQL` `HTML` `CSS` `JavaScript`  
+🌐 Fitur: Tes online satu per satu soal, simpan jawaban sebagai SQL, cocok untuk hosting murah.
+
+---
+
+### 🎓 [AplikasiPsikoes.com](https://aplikasipsikoes.com)
+> Sistem berbasis web untuk memudahkan lembaga atau sekolah menyelenggarakan tes psikologi secara digital dengan dashboard hasil otomatis.
+
+🛠️ Teknologi: `Laravel` `Bootstrap` `jQuery`  
+🎯 Kelebihan: Sistem multiuser, analisis hasil tes otomatis, grafik kepribadian & potensi.
+
+---
+
+### 🏥 [RumahKhitanSidoarjo.com](https://rumahkhitansidoarjo.com)
+> Website resmi layanan khitan modern di Sidoarjo, memudahkan booking layanan & informasi prosedur.
+
+🛠️ Teknologi: `HTML` `Bootstrap` `WhatsApp API`  
+📲 Fitur: Tombol booking langsung ke WhatsApp, desain responsif, informasi prosedur & harga.
+
+---
 ### 🔧 Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
